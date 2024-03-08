@@ -1,0 +1,29 @@
+{
+  "name": "six",
+  "version": "1.1.1",
+  "description": "six",
+  "main": "index.js",
+  "files": [
+    "test",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "MrDx <maihuy244@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maihuy243/six"
+  },
+  "keywords": [
+    "two"
+  ],
+  "bugs": {
+    "url": "https://github.com/maihuy243/six/issues"
+  },
+  "homepage": "https://github.com/maihuy243/six#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
