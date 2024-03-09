@@ -10,7 +10,7 @@
   "scripts": {
     "test": "node test/test.js"
   },
-  "author": "MrDx <maisyhuy140797@gmail.com>",
+  "author": "MrDx <maihuy243@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
